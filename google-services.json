@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "328472666135",
+    "project_id": "onesignal-aae41",
+    "storage_bucket": "onesignal-aae41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328472666135:android:8f32caa9ca20bf043ebc52",
+        "android_client_info": {
+          "package_name": "com.sharipov.onesignal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp-MjhPmKowscLu_gFB6VfM_enCTH2r2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
